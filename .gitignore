@@ -1,0 +1,166 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+*.sln.iml
+
+# Visual Studio Code
+.history/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+wwwroot/dist/
+
+# Logs
+*.log
+logs/
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# Azure
+PublishProfiles/
+*.publishsettings
+
+# IIS Express
+/.vs/config/applicationhost.config
+
+# Node.js (for Angular/React/Next.js in same repo)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Secrets
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+# Certificates
+*.pfx
+*.p12
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Coverage Reports
+coverage/
+coverage-report/
+
+# SonarQube
+.sonarqube/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# SQL Server
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Generated files
+Generated/
+GeneratedCode/
+
+# Docker
+docker-compose.override.yml
+
+# Kubernetes secrets
+*.kubeconfig
+
+# Local tooling
+.tools/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Cake
+tools/**
+!tools/packages.config
+
+# Paket
+.paket/
+paket-files/
+
+# Azure Functions
+bin/
+obj/
+
+# Application Insights
+ApplicationInsights.config
+
+# Temporary ASP.NET files
+Temporary ASP.NET Files/
+
+# DotNet watch
+.dotnet/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Mac/Linux
+*.swp
+*.swo
+*~

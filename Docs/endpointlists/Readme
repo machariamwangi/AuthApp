@@ -1,0 +1,6 @@
+GET    /api/profile
+PUT    /api/change-password
+POST   /api/logout
+GET    /api/admin/users
+PUT    /api/admin/users/{id}/role
+DELETE /api/admin/users/{id}
