@@ -1,4 +1,4 @@
-# AuthApp — ASP.NET Core 8 · JWT Authentication API
+# AuthApp — ASP.NET Core 10 · JWT Authentication API
 # Elijah Mentorship 2026 Excercie 4
 
 A
