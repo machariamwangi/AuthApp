@@ -2,7 +2,7 @@
 # Elijah Mentorship 2026 Excercie 4
 
 A
-- **ASP.NET Core 8 MVC / Web API**
+- **ASP.NET Core 10 MVC / Web API**
 - **JWT Bearer Tokens** (`Microsoft.AspNetCore.Authentication.JwtBearer`)
 - **BCrypt** password hashing (`BCrypt.Net-Next`)
 - **Entity Framework Core** (localdb)\MSSQLLocalDB)
